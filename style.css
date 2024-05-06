@@ -102,8 +102,18 @@ header label{
   padding-left: 9%;
 }
 #About{
-  padding: 50% 20%;
+  padding: 20% 20%;
   background-color:#7781BE;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+#about-body{
+  display: block;
+  align-items: center;
+  justify-content: center;
+
 }
 #statement, #values, #tokenomics, #tokenomics-distribution,
 #vision{
@@ -119,8 +129,14 @@ header label{
   font-size: 16px;
   font-family: roboto;
 }
+.container{
+  border-radius: 1rem;
+  border: 1px solid red;
+}
+#statment-block{
 
-
+  background-color: whitesmoke;
+}
 
 
 
