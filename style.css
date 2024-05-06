@@ -87,13 +87,12 @@ header label{
   display: none;
 }
 #Home{
-  height: 90vh;
-  width: 100%;
-  background-image: url(ice.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: absolute;
+  height: 100vh;
+    width: 100%;
+    background-image: url(ice.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 .landing-text{
@@ -102,7 +101,7 @@ header label{
   padding-left: 9%;
 }
 #About{
-  padding: 20% 20%;
+  padding: 20% auto;
   background-color:#7781BE;
   display: inline-flex;
   align-items: center;
