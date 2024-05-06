@@ -93,7 +93,7 @@ header label{
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  position: relative;
+  position: absolute;
 
 }
 .landing-text{
