@@ -137,10 +137,13 @@ header label{
   background-color: whitesmoke;
 }
 
-
-
-
-
+.image{
+  width: 60%;
+  height: 60%;
+}
+.container-fluid{
+  text-decoration: none;
+}
 
 
 
@@ -237,5 +240,11 @@ header label{
   align-items: center;
   justify-content: center;
   
+}
+
+.image{
+  width: 50%;
+  height: 60%;
+  clip-path: circle(4);
 }
 }
