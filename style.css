@@ -101,7 +101,7 @@ header label{
   padding-left: 9%;
 }
 #About{
-  padding: 20% 2%;
+  padding: 20% 20%;
   background-color:#7781BE;
   display: inline-flex;
   align-items: center;
@@ -230,5 +230,12 @@ header label{
  #menu-bar:checked ~ .navbar{
   display:initial;
  }
-
+ #About{
+  padding: 20% 2%;
+  background-color:#7781BE;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  
+}
 }
