@@ -101,7 +101,7 @@ header label{
   padding-left: 9%;
 }
 #About{
-  padding: 20% auto;
+  padding: 20% 2%;
   background-color:#7781BE;
   display: inline-flex;
   align-items: center;
